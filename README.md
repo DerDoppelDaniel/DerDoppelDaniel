@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DerDoppelDaniel
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning
-- <!---
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
